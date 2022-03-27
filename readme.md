@@ -32,7 +32,7 @@
 <p><h4> Abaixo você verá a página funcionando e a responsividade dela.. </h4> </p>
         
 
- [Abrir no Github Pages](https://joaovictorcasado.github.io/project_Interface_Netflix/)
+ [Abrir no Github Pages](https://joaovictorcasado.github.io/project_interface_netflix_dio/)
  <br>
 
 
