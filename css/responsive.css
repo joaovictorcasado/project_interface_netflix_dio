@@ -1,0 +1,57 @@
+@media screen and  (max-width:700px) {
+  body{
+    min-width: 350px;
+    
+  }
+    .parentContainerHeader{
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    margin-bottom: 40px;
+    white-space: nowrap;
+    margin-top: 10px;
+    
+  }
+
+  .logoNav{
+    margin-bottom: 5px;
+  }
+
+  nav {
+    margin-right: 0px;
+  }
+  
+
+  .description{
+    max-width: 60%;
+  }
+
+  .btnParents{
+    margin-left: 5px;
+    width: 96%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+
+  }
+
+  .infoIcon{
+    margin-left: 20px;
+  }
+  
+  
+
+  button {
+  
+    margin-top: 5px;
+    margin-right: 0px;
+    
+  }
+
+ 
+
+  
+
+}
+
